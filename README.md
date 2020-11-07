@@ -1,6 +1,9 @@
-Project: Hotel Management System  
+Project: Hotel Management System 
+
 Hosted on: https://github.com/vishp21/dbms_mini
+
 Members: Vishaal Prasad -111803129
+
 This a Database Management System Course Mini Project
 
 Technology used:
