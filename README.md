@@ -7,8 +7,11 @@ Members: Vishaal Prasad -111803129
 This a Database Management System Course Mini Project
 
 Technology used:
+
 Frontend: HTML, PHP, CSS
+
 Backend: JS
+
 Database: MySQL
 
 Features:
