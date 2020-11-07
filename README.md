@@ -19,6 +19,7 @@ Features:
 2. Gives you a variety of features of the hotel.
 
 How it is different from other sites?
+
 It allows you to perform various operations as a customer as well as an admin.
 
 Installation guide:
